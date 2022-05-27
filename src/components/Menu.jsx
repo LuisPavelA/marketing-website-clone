@@ -2,8 +2,10 @@ import React from 'react'
 
 function Menu() {
     return (
-        <div className="">
-            
+        <div className="w-100 h-full bg-white">
+            <button>
+
+            </button>
         </div>
     );
 }
